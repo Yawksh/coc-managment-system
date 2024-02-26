@@ -23,6 +23,7 @@
 
 </head>
 <?php
+
 include_once 'dbConnection.php';
 ?>
 <body>
