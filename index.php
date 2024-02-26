@@ -57,6 +57,8 @@
 }
 
 
+	
+
 #div_text{
 	width:350px;
 
