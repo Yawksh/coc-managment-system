@@ -55,8 +55,6 @@
 	box-shadow:3px 3px 3px red;
 	background-color:#eee;
 }
-
-
 	
 
 #div_text{
