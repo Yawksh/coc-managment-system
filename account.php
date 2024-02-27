@@ -130,6 +130,9 @@ include_once 'dbConnection.php';
                     if (remainingSeconds < 10) {
                         remainingSeconds = "0" + remainingSeconds;
                     }
+
+
+		    
                     document.getElementById('countdown').innerHTML = minutes + ":" +    remainingSeconds;
                     if (seconds == 0) {
                         clearInterval(countdownTimer);
