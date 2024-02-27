@@ -12,6 +12,7 @@ $result = mysqli_query($con,"SELECT email FROM admin WHERE email = '$email' and 
 $count=mysqli_num_rows($result);
 if($count==1){
 session_start();
+  
 if(isset($_SESSION['email'])){
 
 session_unset();}
