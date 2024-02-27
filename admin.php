@@ -13,6 +13,7 @@ $count=mysqli_num_rows($result);
 if($count==1){
 session_start();
 if(isset($_SESSION['email'])){
+
 session_unset();}
 $_SESSION["name"] = 'Admin';
 $_SESSION["key"] ='sunny7785068889';
