@@ -22,6 +22,7 @@
 			color: blue;
 		}
 		body {
+			
 			margin-left: 0px;
 			margin-top: 0px;
 			margin-right: 0px;
