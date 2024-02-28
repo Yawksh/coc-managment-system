@@ -28,6 +28,7 @@
 <div class="col-md-2">
 </div>
 <div class="col-md-4">
+	
 <?php
  include_once 'dbConnection.php';
 session_start();
