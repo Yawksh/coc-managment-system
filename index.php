@@ -23,6 +23,8 @@
 		$(document).ready(function() {
 			if ($('#slides').length > 0) {
 				$('#slides').cycle({ 
+
+					
 					fx: 'fade',
 					speed: 750,
 					timeout: 6000, 
