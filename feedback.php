@@ -121,7 +121,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="col-md-9">
 <!-- Text input-->
 <div class="form-group">
-  <input id="email" name="email" placeholder="Enter your email-id" class="form-control input-md" type="email">    
+  <input id="email" name="email" placeholder="Enter your email-id " class="form-control input-md" type="email">    
  </div>
 </div>
 </div><!--End of row-->
