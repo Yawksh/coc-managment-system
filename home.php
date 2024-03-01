@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+	
 	<title>Center of Competance for Fekede Egzi Collage</title>
 	  <link rel="stylesheet" type="text/css" href="homecss.css">
 	  </head>
