@@ -7,6 +7,7 @@
 <body>
 
 
+	
 <div class="e">
             <span class="logo"><img calss="img-circle" style="border-radius: 50%;margin-top: -8px" width="10%" height="75px" src="../image/fekd.PNG"/>  FEKEDE EGZI COLLEGE Center of Competance  </span>
 </div>
