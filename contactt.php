@@ -22,6 +22,7 @@ p
 	width:300px;
 	display:inline-block;
 	
+	
 height:400px;
 	font-family:Times New Roman;
 	font-size:20px;
