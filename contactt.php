@@ -38,6 +38,8 @@ height:400px;
 }
 #div_teeext{
 
+	
+
 	width:400px;
 	display:inline-block;
 	margin:20px;
