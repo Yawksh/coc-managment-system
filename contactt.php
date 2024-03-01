@@ -109,7 +109,7 @@ height:400px;
                 <font color=black><div ><p style="font-size:30px">Phone:+251------ </p></div>
 				<font color=black><div ><p style="font-size:30px">or:+251------ </p></div>
 			Fax:+251------ | PO. Box:  &nbsp;&nbsp;&nbsp; Arba minch, Ethiopia</p>				
- <p style="font-size:30px"> Web Site:www.fekedeegzi.edu.et</p></font>
+ <p style="font-size:30px"> Web Site:www.amu.edu.et</p></font>
 				   </div>
             </div>
             </div>
