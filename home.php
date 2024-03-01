@@ -13,6 +13,7 @@
 	<img src="../image/home.PNG" width="100%" height="90%"/><br> <b><h5>Copy Right Protected 2011 E.C </h5></b>
 </div>
 
+
 	
 <div class="center"><h2>Background of Organizatin </h2>
 <p> Fekede Egzi College is one of the known   Organizations in Amhara region at Debre Tabor city. It established in 1997 E.C by teacher association training cycle and continues its work </p>
