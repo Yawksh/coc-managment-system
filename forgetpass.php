@@ -4,7 +4,6 @@
 		?>
 		<html>
 		<head>
-			
 		  <title>classroom system</title>
 		 <link href="a_data/style.css" rel="stylesheet" type="text/css">
 		<script src="ism/js/ism-2.1.js"></script>
