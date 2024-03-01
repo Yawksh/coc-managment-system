@@ -28,6 +28,8 @@ height:400px;
 	margin-top:-20px;
 }
 #div_txt{
+
+	
 	width:300px;
 	display:inline-block;
 	
