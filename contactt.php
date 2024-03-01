@@ -69,7 +69,7 @@ height:400px;
 	font-style:oblique;
 	font-size:40px;
 	font-weight:bold;">
-	<title>Center of competance </title>
+	<title>Center of competancy </title>
    
     <link  rel="stylesheet" href="css/bootstrap.min.css"/>
     <link  rel="stylesheet" href="css/bootstrap-theme.min.css"/>
