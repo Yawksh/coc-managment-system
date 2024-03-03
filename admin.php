@@ -10,6 +10,7 @@ $password = addslashes($password);
 $result = mysqli_query($con,"SELECT email FROM admin WHERE email = '$email' and password = '$password'") or die('Error');
 $count=mysqli_num_rows($result);
 if($count==1){
+  
 session_start();
   
 if(isset($_SESSION['email'])){
