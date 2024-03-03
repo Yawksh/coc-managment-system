@@ -4,6 +4,7 @@ $ref=@$_GET['q'];
 $email = $_POST['uname'];
 $password = $_POST['password'];
 
+
 $email = stripslashes($email);
 $email = addslashes($email);
 $password = stripslashes($password); 
