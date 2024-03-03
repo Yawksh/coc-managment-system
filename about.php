@@ -1,5 +1,6 @@
 <?php
 
+
 require('connection/dbConnection.php');
 	 $today=date("Y-m-d");
      $newDay=date("Y-m-d", strtotime("+30 days"));
