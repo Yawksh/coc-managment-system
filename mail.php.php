@@ -32,6 +32,7 @@ include './Connection.php';
     <div class="header">
       <div class="nav-area">
       <?php
+
         if (isset( $_SESSION['sess_user'])){
            include './afterLogin.php';
         }else{
