@@ -3,6 +3,7 @@
 include("connection/dbconnection.php");
 $we="";
 $ty="";
+
 $set = '123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	 $id= substr(str_shuffle($set), 0,5);
    $FirstName=$_POST['name'];
