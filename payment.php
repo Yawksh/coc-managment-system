@@ -14,6 +14,7 @@ $set = '123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	$Amount=$_POST['amount'];
 	$email=$_POST['email'];
 	$phone=$_POST['phone'];
+
 		$sql ="insert into account(Name,address,city,accountNumber,password,Amount,Email,telephon) values
 	('$FirstName','$address','$city','$accout','$password','$Amount','$email','$phone')";
 	$in=mysqli_query($con,$sql);
