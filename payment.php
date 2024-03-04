@@ -22,6 +22,7 @@ $set = '123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	if(!$in)
 		  {
 			  
+			  
             echo mysqli_error($con);
 		  }
           else  
