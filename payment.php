@@ -19,6 +19,7 @@ $set = '123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 	$in=mysqli_query($con,$sql);
 	if(!$in)
 		  {
+			  
             echo mysqli_error($con);
 		  }
           else  
